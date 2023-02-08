@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Collections.Task\bin\Debug\net6.0\Collections.Task.exe
+C:\Users\ASUS\source\repos\Collections.Task\bin\Debug\net6.0\Collections.Task.deps.json
+C:\Users\ASUS\source\repos\Collections.Task\bin\Debug\net6.0\Collections.Task.runtimeconfig.json
+C:\Users\ASUS\source\repos\Collections.Task\bin\Debug\net6.0\Collections.Task.dll
+C:\Users\ASUS\source\repos\Collections.Task\bin\Debug\net6.0\Collections.Task.pdb
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\Collections.Task.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\Collections.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\Collections.Task.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\Collections.Task.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\Collections.Task.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\Collections.Task.dll
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\refint\Collections.Task.dll
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\Collections.Task.pdb
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\Collections.Task.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Collections.Task\obj\Debug\net6.0\ref\Collections.Task.dll
