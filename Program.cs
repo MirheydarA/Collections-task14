@@ -1,46 +1,54 @@
 ﻿//task2
 
-//namespace Collections.task2
-//{
-//    internal class Program
-//    {
-//        static void Main(string[] args)
-//        {
-//            List<Student> students = new List<Student>();
+namespace Collections.task2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            List<Student> students = new List<Student>();
 
-//            var student1 = new Student
-//            {
-//                Name = "dsadv",
-//                Surname = "B",
-//                Pin = 123
-//            };
-//            AddStudent(students, student1);
+            var student1 = new Student
+            {
+                Name = "dasdv",
+                Surname = "Bfds",
+                Pin = 1 
+            };
+            AddStudent(students, student1);
+            
 
-//            var student2 = new Student
-//            {
-//                Name = "fgabgb",
-//                Surname = "Aqefwwef",
-//                Pin = 456
-//            };
+            var student2 = new Student
+            {
+                Name = "fagbgb",
+                Surname = "Aqefwwef",
+                Pin = 2
+            };
+            AddStudent(students, student2);
 
-//            foreach (var student in students)
-//            {
-//                int count = students.Count(s => s.Name.Contains('a'));
-//                Console.WriteLine(count);
-//            }
+            var student3 = new Student
+            {
+                Name = "sadf",
+                Surname = "adf",
+                Pin = 3
+            };
+            AddStudent(students, student3);
+            
+            
+            int count = students.Count(s => s.Name.Contains('a'));
+            Console.WriteLine(count);                
 
 
-//            static void AddStudent(List<Student> students, Student student)
-//            {
-//                var IsDuplicatedPin = students.Any(s => s.Pin == student.Pin);
-//                if (!IsDuplicatedPin)
-//                {
-//                    students.Add(student);
-//                }
-//            }
-//        }
-//    }
-//}
+            static void AddStudent(List<Student> students,  Student student) 
+            {
+                var IsDuplicatedPin = students.Any(s => s.Pin == student.Pin);
+                if (!IsDuplicatedPin)
+                {
+                    students.Add(student);  
+                }
+            }
+        }
+    }
+}
 
 
 
